@@ -1,0 +1,10 @@
+# comment out
+# .env
+
+# dependency directories
+node_modules
+
+# editor
+.idea
+.vscode
+.DS_Store
